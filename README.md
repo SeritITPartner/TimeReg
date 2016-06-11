@@ -1,2 +1,2 @@
 # TimeReg
-Web-applikasjonen som brukes for å registrer timer i nettleseren.
+Web-applikasjonen som brukes for å registrere timer i nettleseren.
